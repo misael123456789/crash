@@ -1,0 +1,7 @@
+{
+  "name": "ingeniat-crash-implementation",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
