@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Blank
+      Crash
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -14,7 +14,13 @@
   </ion-header>
 
   <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <ion-row>
+      <ion-col><ion-button (click)="getToken()">Get Token</ion-button></ion-col>
+      <ion-col><ion-button (click)="setPerformanceEnable()">Performance</ion-button></ion-col>
+      <ion-col><ion-button (click)="setUserId()">UserID</ion-button></ion-col>
+      <ion-col><ion-button (click)="sendLogErrorToCrash()">Send Log</ion-button></ion-col>
+      <ion-col><ion-button (click)="crashApp()">Crash!</ion-button></ion-col>
+      <ion-col><ion-button (click)="normalexception(1, 2)">Crash!</ion-button></ion-col>
+    </ion-row>
   </div>
 </ion-content>

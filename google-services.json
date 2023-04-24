@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "523893424469",
+    "project_id": "testcrash-fce86",
+    "storage_bucket": "testcrash-fce86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523893424469:android:bfe52e34319bef74cdafdc",
+        "android_client_info": {
+          "package_name": "com.ingeniat.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523893424469-nmnerih50vb2u7a16pajmtuhn6h3crkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6ncTWxO9X-TAzuS2cI1Zj6AhDWpXHgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523893424469-78c5le4pprdvuhl537fo6akmniogub2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523893424469-l7rqrf1r6es0irpd8rk57dvgm2kf3s5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ingeniat.crashlytics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523893424469:android:04adcd8a483e9a76cdafdc",
+        "android_client_info": {
+          "package_name": "com.ingeniat.crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523893424469-nmnerih50vb2u7a16pajmtuhn6h3crkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6ncTWxO9X-TAzuS2cI1Zj6AhDWpXHgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523893424469-78c5le4pprdvuhl537fo6akmniogub2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523893424469-l7rqrf1r6es0irpd8rk57dvgm2kf3s5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ingeniat.crashlytics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523893424469:android:74c955afe86a20c4cdafdc",
+        "android_client_info": {
+          "package_name": "com.ionic.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523893424469-nmnerih50vb2u7a16pajmtuhn6h3crkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6ncTWxO9X-TAzuS2cI1Zj6AhDWpXHgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523893424469-78c5le4pprdvuhl537fo6akmniogub2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523893424469-l7rqrf1r6es0irpd8rk57dvgm2kf3s5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ingeniat.crashlytics"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523893424469:android:78aea97343b970c9cdafdc",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523893424469-nmnerih50vb2u7a16pajmtuhn6h3crkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6ncTWxO9X-TAzuS2cI1Zj6AhDWpXHgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523893424469-78c5le4pprdvuhl537fo6akmniogub2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523893424469-l7rqrf1r6es0irpd8rk57dvgm2kf3s5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ingeniat.crashlytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
